@@ -1,0 +1,4 @@
+priority,entries,actual_anomalies,precision
+Low,4436,633,0.143
+Medium,364,82,0.225
+High,14,6,0.429

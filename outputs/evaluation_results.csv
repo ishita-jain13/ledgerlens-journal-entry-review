@@ -1,0 +1,9 @@
+metric,value
+Total entries,102429.0
+Flagged entries,4814.0
+Correctly caught,721.0
+False alarms,4093.0
+Missed anomalies,129.0
+Precision,0.15
+Recall,0.848
+F1 score,0.255

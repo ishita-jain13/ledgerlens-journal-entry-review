@@ -1,0 +1,4 @@
+check,injected,found,passed
+Missing amounts,50,50,True
+Duplicate rows,30,30,True
+Invalid posting dates,20,20,True
